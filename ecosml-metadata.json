@@ -2,7 +2,9 @@
   "id": "0f80f625-f591-4611-b6ad-0deddbe3fc53",
   "name": "new-python-package",
   "overview": "this is a test, this is only a test.",
-  "keywords": [],
+  "keywords": [
+    "test"
+  ],
   "theme": [],
   "family": [],
   "specific": [],
